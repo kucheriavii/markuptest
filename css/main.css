@@ -1,0 +1,16 @@
+body {
+  height: 100%; }
+
+html {
+  height: 100%; }
+  html .wraper {
+    display: flex;
+    flex-direction: column;
+    height: 100%; }
+  html .content {
+    flex: 1 0 auto; }
+  html footer {
+    flex: 0 0 auto;
+    background: #0f0; }
+
+/*# sourceMappingURL=main.css.map */

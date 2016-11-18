@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'vivaldi';
+    src: url('../fonts/vivadcl_-webfont.woff2') format('woff2'),
+         url('../fonts/vivadcl_-webfont.woff') format('woff'),
+         url('../fonts/VIVADCL_.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
