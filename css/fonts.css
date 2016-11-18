@@ -6,3 +6,11 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Lucida Calligraphy';
+    src: url('../fonts/LCALLIG.ttf'),
+         url('../fonts/lcallig-webfont.woff'),
+         url('../fonts/VIVADCL_.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
