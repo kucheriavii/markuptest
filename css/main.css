@@ -239,7 +239,8 @@ html {
     width: 100%; }
     html body .wraper .content .pictures .item {
       width: 100%;
-      margin: 2px 0; }
+      margin: 2px 0;
+      height: 100%; }
       html body .wraper .content .pictures .item img {
         width: 100%;
         height: 100%; }
