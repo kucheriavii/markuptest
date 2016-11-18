@@ -76,13 +76,15 @@ html {
           margin-top: 10px;
           margin-left: 10px;
           padding: 0;
+          height: 228px;
+          width: 228px;
           float: left;
-          position: relative; }
+          position: relative;
+          overflow: hidden; }
           html .wraper .content .pictures .item img {
-            display: block;
-            height: 228px;
-            width: 228px;
-            position: relative; }
+            display: inline-block;
+            position: relative;
+            margin: 0 auto; }
           html .wraper .content .pictures .item .info {
             font: 12px "Lucida Calligraphy";
             position: absolute;
